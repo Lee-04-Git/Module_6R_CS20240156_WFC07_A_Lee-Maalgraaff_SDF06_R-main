@@ -143,7 +143,10 @@ body {
 
 .gallery-item-info li {
     display: inline-block;
-    
+}
+
+.gallery-item-type {
+    display: none;
 }
 
 @media only screen and (max-width: 600px) {
